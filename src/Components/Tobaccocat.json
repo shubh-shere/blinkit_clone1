@@ -1,0 +1,76 @@
+  [
+    {
+      
+      "id": 1,
+      "productname": "Amul Masti Curd",
+      "price": "32",
+      "url": "../Assets/Images/T-1.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+      "quantity": "400g"
+    },
+    {
+      
+      "id": 2,
+      "productname": "Amul Salted Butter",
+      "price": 285,
+      "url": "../Assets/Images/T-2.jpg",
+       "quantity": "500g"
+    },
+    {
+      
+      "id": 3,
+      "productname": "Amul Pure Milk Cheese Slices",
+      "price": 140,
+      "url": "../Assets/Images/T-3.jpg",
+       "quantity": "200g"
+    },
+    {
+      
+      "id": 4,
+      "productname": "Amul Gold Full Cream Fresh Milk",
+      "price": 33,
+      "url": "../Assets/Images/T-4.jpg",
+       "quantity": "500g"
+    },
+    {
+      
+      "id": 5,
+      "productname": "Harvest Gold Hearty Brown Bread",
+      "price": 50,
+      "url": "../Assets/Images/T-5.jpg",
+      "quantity": "500g"
+     },
+    {
+      
+      "id": 6,
+      "productname": "Harvest Gold White Bread",
+      "price": 55,
+      "url": "../Assets/Images/T-6.jpg",
+      "quantity": "700g" 
+     },
+    {
+      
+      "id": 7,
+      "productname": "Amul Fresh Malai Paneer",
+      "price": 91,
+      "url": "../Assets/Images/T-7.jpg",
+      "quantity": "200g" 
+      },
+    {
+      
+      "id": 8,
+      "productname": "Harvest Gold 100% Atta Whole Wheat Bread",
+      "price": 55,
+      "url": "../Assets/Images/T-8.jpg",
+      "quantity": "450g"   },
+    {
+      
+      "id": 9,
+      "productname": "Amul Blend Diced Cheese",
+      "url":"../Assets/Images/T-9.jpg",
+      "price": 550,
+      "quantity": "1kg"  
+      } 
+       
+  ]
+ 

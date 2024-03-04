@@ -1,0 +1,88 @@
+{
+    "Product" :[
+    {
+        "id": 1,
+        "title": "Milk",
+        "image": "../Assets/Images/p-cat-1.png"
+
+
+},
+{
+    "id": 2,
+    "title": "Bread & Pav",
+    "image": "../Assets/Images/p-cat-2.jpg"
+
+
+},
+{
+    "id": 31,
+    "title": "Eggs",
+    "image": "../Assets/Images/p-cat-3.jpg"
+
+
+},
+{
+    "id": 4,
+    "title": "Flakes & Kids Cereals",
+    "image": "../Assets/Images/p-cat-4.jpg"
+
+
+},
+{
+    "id": 5,
+    "title": "Oats",
+    "image": "../Assets/Images/p-cat-5.jpg"
+
+
+},
+{
+    "id": 6,
+    "title": "Paneer & Tofu",
+    "image": "../Assets/Images/p-cat-6.jpg"
+
+
+},
+{
+    "id": 7,
+    "title": "Curd & Yogurt",
+    "image": "../Assets/Images/p-cat-7.jpg"
+
+
+},
+{
+    "id": 8,
+    "title": "Cheese",
+    "image": "../Assets/Images/p-cat-8.jpg"
+
+
+},
+{
+    "id": 9,
+    "title": "Cream & Whitener",
+    "image": "../Assets/Images/p-cat-1.png"
+
+
+},
+{
+    "id": 10,
+    "title": "Honey & Chyawanprash",
+    "image": "../Assets/Images/p-cat-2.jpg"
+
+
+},
+{
+    "id": 11,
+    "title": "Batter",
+    "image": "../Assets/Images/p-cat-3.jpg"
+
+
+},
+{
+    "id": 12,
+    "title": "Energy Bars",
+    "image": "../Assets/Images/p-cat-4.jpg"
+
+
+}
+]
+}

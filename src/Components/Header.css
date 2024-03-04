@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a{text-decoration: none;}
+p{ margin:0; color: rgb(102, 102, 102);}
+.header{position: fixed; width: 100%; background-color: #fff; z-index: 999; top: 0; left: 0;}
+.full-header {  display: flex; align-items:center; justify-content: space-evenly; padding: 18px 30px; border-bottom: 1px solid rgb(238, 238, 238);}
+.sitelogo { max-width: 100px; }
+.sitelogo img{ width: 100%; }
+.location-box { padding-left: 50px; text-align: left; line-height: 18px;}
+.location-box h3{ font-size: 20px;  margin: 0px; font-weight: 700; color: #000;}
+.search-box input{ width:650px;   background-color: #f8f8f8; padding:10px 35px;  border-radius: 15px; border: 1px solid rgba(0, 0, 0, 0.04);}
+.login-nav ul {  margin: 0px; padding: 0px; display: flex; justify-content: space-around; align-items: center; width: 260px; }
+.login-nav ul li { list-style: none; }
+.login-nav ul li button { padding: 10px 10px; border-radius: 5px;  background-color: rgb(12, 131, 31);  color: #fff; font-size: 18px;  border: 1px solid rgb(12, 131, 31); }
+.search-box {position: relative;}
+.search-box a { position: absolute; top: 12px; left: 11px; color: #515050; font-size:16px; }
+.search-box input:focus-visible{ outline: none; }
+.css-1wnsr1i {  position: absolute; top: 50%; left: 50%;  -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%);  transform: translate(-50%, -50%);
+    width: 400px; background-color: #fff;  border: 2px solid #000;  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);  padding: 20px;
+}
+.login-nav a{color: rgb(54, 54, 54); text-decoration: none; font-size: 18px;}
+.loginpopup { position: fixed; left: 50%; top: 50%; background-color: #fff; z-index: 9999; width: 550px; height: 100%; max-height: 335px;
+    translate: -50% -50%; border-radius: 25px; }
+.log_input{position: relative;}
+.background-popup::after { content: ''; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.7); z-index: 9; max-height: 100%; overflow: hidden;
+}
+.login_content p {
+    font-size: 14px;
+    color: #666;
+    padding-top: 10px;
+}
+
+.loginpopup span {
+    float: left;
+    padding-left: 24px;
+    display: block;
+    cursor: pointer;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.background-popup .popupbody {
+    padding: 30px;
+    text-align: center;
+}
+.popup_content .login_content h3 {
+    color: #333;
+    font-size: 24px;
+    line-height: normal;
+    margin: 0;
+    text-align: center;
+    font-weight: 800;
+}
+#login_number {
+    padding: 8px 20px 9px 45px;
+    max-width: 300px;
+    border-radius: 14px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #000;
+    font-size: 18px;
+    margin: 7px 0px;
+    width: 100%;
+}
+#login_number:focus-visible{
+    border: 1px solid #999;
+    outline: #666;
+}
+.login_content {
+    padding-top: 7px;
+}
+button.login_btn {
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin: 10px auto;
+    padding: 10px 114px!important;
+    border-radius: 14px;
+}
+
+.login_form::after {
+    content: '+91';
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    position: absolute;
+    top: 179px;
+    left: 130px;
+    z-index: 99;
+    font-weight: 600;
+}
+.popup-blank {
+    overflow: hidden;
+}
+
+.background-popup {
+    position: relative;
+}
+.loaction-body {
+    background-color: #fff;
+    width: 500px;
+    height: 125px;
+    position: absolute;
+    z-index: 99;
+    padding: 30px;
+    top: 30px;
+    left: -123px;
+}
+button.direction-btn {
+    padding: 8px 16px;
+    background-color: #0c831fed;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 13px;
+}
+.direction {
+    padding-top: 13px;
+}
+.location-box a {
+    text-decoration: none;
+}
+
+.loaction-body span {
+    position: absolute;
+    right: 16px;
+    top: 10px;
+}
+.direction form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#location-seacrh {
+    width: 234px;
+}
+p.or_location {
+    border: 1px solid #666666;
+    padding: 6px 7px;
+    border-radius: 34px;
+    font-size: 12px;
+}
+
+.loginpopup img {
+    max-width: 64px;
+}

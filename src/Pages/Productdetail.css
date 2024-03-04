@@ -1,0 +1,132 @@
+.productdetail {
+    margin-top: 85px;
+}
+
+.all-product-link a {
+    color: rgb(12, 131, 31);
+    font-size: 18px;
+    font-weight: 600;
+}
+.productinfo .breadcrumb-item a {
+    font-size: 14px;
+    color: rgb(54, 54, 54);
+}
+.productinfo h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.right-Productinfo {
+    padding: 50px;
+}
+
+.productinfo {
+    border-bottom: 1px solid rgb(232, 232, 232);
+    padding-bottom: 19px;
+}
+.unitheading p {
+    font-size: 14px;
+    color: rgb(79, 79, 79);
+    font-weight: 600;
+    padding: 10px 0px;
+}
+.unit_cat {
+    min-width: 98px;
+    border: 1px solid #666666;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    margin-right: 10px;
+}
+.unit_data {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.unit_quantity {
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(31, 31, 31);
+}
+
+ 
+
+.unit_price {
+    margin-top: 2px;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    min-width: max-content;
+}
+
+.add_btn_product {
+    padding: 10px  0px;
+}
+.add_btn_product p {
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.blinkit-content p {
+    font-weight: 600;
+    color: #000;
+    font-size: 20px;
+}
+
+.content-p p {
+    font-size: 12px;
+    font-weight: 400;
+}
+.blinkit-content-inner {
+    display: flex;
+   
+    align-items: center;
+    padding-top: 15px;
+}
+
+.blink_img {
+    max-width: 70px;
+    padding-right: 10px;
+}
+
+.content-p p:nth-child(2) {
+    font-size: 14px;
+}
+
+.p_zoomimg {
+    max-width: 480px;
+    height: 480px;
+    margin: 0 auto 20px;
+}
+.product_slider .p-image {
+    width: 85px;
+    margin: auto;
+}
+
+.product-card {
+   
+    padding: 5px 5px;
+    margin: 0px 10px;
+}
+
+.product_slider {
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+}
+.productdetail .col-6:nth-child(2) {
+    border-left: 1px solid #eee;
+}
+
+.product-details-data {
+    padding-top: 30px;
+}
+.product-details-data h6 {
+    margin: 0px;
+}
+
+.unit_cat.active {
+    border: 2px solid #0c831f;
+    box-shadow: 1px 2px 6px #a2a0a0;
+}
